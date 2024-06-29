@@ -1,11 +1,11 @@
 remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
-title: "git-wiki-skeleton"
+title: "OnTopic"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
-baseurl: "/git-wiki-skeleton"
+# baseurl: "/git-wiki-skeleton"
 # (string) Description of your wiki
-description:
+description: わたくし、sakzk がいろいろ書いていきます。
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
