@@ -18,4 +18,4 @@ The git-wiki project is composed by 3 different repository:
 
 - [git-wiki](https://github.com/Drassil/git-wiki): This is the documentation repository and website of the **git-wiki-theme** project. You would have not fork it unless you want to contribute to the git-wiki project documentation.
 
-Version: 1.0.8
+Version: 1.0.9
